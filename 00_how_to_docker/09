@@ -1,0 +1,5 @@
+docker run -it debian
+
+apt-get update && apt-get upgrade
+apt-get install build-essential
+apt-get install git-core
