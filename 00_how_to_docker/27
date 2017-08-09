@@ -1,0 +1,1 @@
+docker service logs --follow engineering-bay.1.kljvwo20kmcevqptxfmiu9pjk
